@@ -1,0 +1,101 @@
+student_id,name,major,score,year
+cca8c1d5,SinhVien 208,Accounting,2.92,2
+dcf972ad,SinhVien 288,History,3.68,4
+a3aaca46,SinhVien 899,Artificial Intelligence,3.49,3
+a142708c,SinhVien 573,Chemistry,3.35,1
+8f713b85,SinhVien 597,Physics,2.18,2
+aab8ceff,SinhVien 345,Mathematics,3.41,4
+59e8e4cd,SinhVien 607,Artificial Intelligence,2.45,3
+4f9ad69f,SinhVien 679,History,3.46,3
+721b14a6,SinhVien 682,Physics,2.84,4
+611cb4f2,SinhVien 919,Literature,2.22,2
+e5021dc1,SinhVien 960,Electrical Engineering,2.94,1
+16deb048,SinhVien 757,Mathematics,3.5,3
+18ce4d69,SinhVien 761,Economics,2.5,4
+5cb5dc0f,SinhVien 487,Biomedical Engineering,3.12,1
+0de24aa6,SinhVien 983,Mathematics,3.94,1
+da5ec648,SinhVien 285,Finance,2.3,3
+6e22e33d,SinhVien 567,Marketing,3.01,4
+7d7d9b41,SinhVien 883,Finance,2.78,3
+93366c9e,SinhVien 525,Mechanical Engineering,2.17,3
+8be7d1c4,SinhVien 580,Economics,3.64,2
+e4932aeb,SinhVien 481,Economics,2.95,1
+bd2a6d87,SinhVien 191,History,2.39,3
+2d259b68,SinhVien 228,Literature,2.93,2
+549a6c9f,SinhVien 874,Mathematics,3.35,1
+1a81bdf6,SinhVien 529,Economics,2.24,4
+d70d43a7,SinhVien 584,Mechanical Engineering,2.61,3
+b328ef90,SinhVien 54,Biomedical Engineering,3.21,3
+9a278044,SinhVien 693,Business Administration,3.73,4
+ba1e0fcd,SinhVien 79,Chemistry,2.48,1
+3974942a,SinhVien 703,Chemistry,3.56,2
+5957779d,SinhVien 976,Artificial Intelligence,2.28,3
+1b1d9568,SinhVien 212,Accounting,2.25,2
+9cc093eb,SinhVien 829,Sociology,2.07,4
+141a04e0,SinhVien 393,Computer Science,3.62,4
+f8067c3b,SinhVien 4,Accounting,3.83,4
+36c1d69f,SinhVien 530,Economics,3.02,4
+108c2233,SinhVien 48,Psychology,2.26,4
+9c61ea88,SinhVien 916,Civil Engineering,3.13,2
+19dda143,SinhVien 286,Biomedical Engineering,3.57,3
+7e9e7ea5,SinhVien 200,Marketing,3.61,1
+82b4291a,SinhVien 438,Accounting,3.44,1
+62d26aec,SinhVien 330,Economics,2.53,4
+42beb85b,SinhVien 745,Chemistry,3.45,2
+39b35882,SinhVien 239,Literature,3.37,1
+82e60680,SinhVien 247,Biomedical Engineering,2.86,3
+0ac65e5e,SinhVien 64,Accounting,3.26,2
+ed66f47e,SinhVien 517,Physics,3.02,2
+9e6d5088,SinhVien 564,Economics,3.19,1
+e7e4214a,SinhVien 991,Data Science,2.83,3
+d454b497,SinhVien 304,Literature,3.17,1
+21d14d31,SinhVien 314,Electrical Engineering,3.34,4
+71955b68,SinhVien 390,Marketing,2.97,4
+482d4781,SinhVien 746,Data Science,2.11,4
+8c3472b9,SinhVien 129,Business Administration,2.1,1
+85f6a18a,SinhVien 689,Civil Engineering,2.36,4
+926a7db5,SinhVien 529,Electrical Engineering,2.05,4
+25cd5c50,SinhVien 836,Sociology,2.36,1
+9917e43a,SinhVien 52,Chemistry,2.29,1
+87c33081,SinhVien 940,History,2.25,3
+49fa8d31,SinhVien 512,Psychology,2.35,3
+258efa1c,SinhVien 57,History,2.21,4
+29dfce85,SinhVien 18,Economics,2.15,3
+d0a31c3c,SinhVien 286,Psychology,3.16,1
+80fa430c,SinhVien 927,Computer Science,2.72,4
+b8157ea4,SinhVien 188,Artificial Intelligence,3.78,4
+57e1ef63,SinhVien 817,Data Science,2.82,3
+6026deca,SinhVien 186,Marketing,3.13,4
+fe2372f4,SinhVien 410,Sociology,2.66,1
+708a3fad,SinhVien 289,Computer Science,3.08,4
+daa6ccb7,SinhVien 771,Accounting,3.16,2
+648e1754,SinhVien 667,Finance,3.54,1
+abcb54f5,SinhVien 104,Sociology,3.12,2
+893fd9b9,SinhVien 92,Computer Science,2.74,3
+a2b5d612,SinhVien 532,Mathematics,2.19,2
+3105e523,SinhVien 649,Mechanical Engineering,3.21,4
+5893d301,SinhVien 201,Artificial Intelligence,2.26,1
+f6bfc098,SinhVien 356,Literature,2.26,2
+d0314395,SinhVien 937,Physics,4.0,3
+45ae2376,SinhVien 702,Psychology,3.53,4
+0c659770,SinhVien 545,Data Science,3.41,4
+d592fa19,SinhVien 48,Artificial Intelligence,3.99,4
+8e19d707,SinhVien 998,Civil Engineering,3.72,2
+c2e33a01,SinhVien 206,Finance,2.02,3
+ae2708f4,SinhVien 945,Sociology,3.03,2
+795b9eab,SinhVien 330,Business Administration,3.86,1
+bb721465,SinhVien 934,Finance,3.91,4
+b6c59318,SinhVien 953,Physics,2.44,4
+bebcc8a8,SinhVien 523,Marketing,3.84,3
+10b5d42a,SinhVien 45,Civil Engineering,2.17,1
+852312fd,SinhVien 443,Literature,2.51,2
+c344584e,SinhVien 538,Accounting,2.97,4
+e2be9e8b,SinhVien 993,Literature,3.2,1
+20a77586,SinhVien 986,History,2.04,4
+cbc50fa9,SinhVien 348,Finance,2.84,3
+a54b3f43,SinhVien 226,Economics,3.92,1
+69998a52,SinhVien 118,Finance,2.71,4
+87dba52c,SinhVien 448,Literature,3.6,4
+ce9a8848,SinhVien 363,Economics,3.48,3
+9f373008,SinhVien 720,Sociology,3.72,1
+28bf3764,SinhVien 643,Psychology,2.1,4
